@@ -5,8 +5,11 @@
 
 
 <div align=center>
-     <h3> It's Me! 👋 </h3>
-  
+     <h3> Hi There! 👋 </h3>
+<!--       <a href="mailto:cpwls0114@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+       <a href="mailto:cpwls0114@gmail.com" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">           -->
+<!-- 
+<br> -->
 <br>
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
