@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%&desc=Hello%20capsule%20render)
 &animation=twinkling&fontSize=45&height=200) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome&fontAlignY=40%&desc=Jiin's%20GitHub%20Profile&descAlign=65&descAlignY=55&animation=twinkling&fontSize=80&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome&fontAlignY=40%&desc=Jiin's%20GitHub%20Profile&descAlign=65&descAlignY=55&animation=twinkling&fontSize=84&height=245)
 
 
 <div align=center>
