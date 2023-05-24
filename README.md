@@ -5,7 +5,7 @@
 
 
 <div align=center>
-     It's me! 👋
+     <h3> It's me! 👋 </h3>
   <br>
 
   
@@ -55,8 +55,7 @@
  
   </div>
   <br>
-  <br>
-  <br>
+
 
   <div align="center">
 
