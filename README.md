@@ -63,7 +63,7 @@
   <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjiin&layout=compact&theme=buefy)](https://github.com/delay-100/github-readme-stats)
-[![cjiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjiin&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![cjiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjiin&hide_title=true&show_icons=true&include_all_commits=true&count_private=tru&disable_animations=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
 
