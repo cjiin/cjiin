@@ -63,7 +63,8 @@
   <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjiin&layout=compact&theme=buefy)](https://github.com/delay-100/github-readme-stats)
-![cjiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjiin&show_icons=true&theme=buefy)
+
+<!--[cjiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjiin&show_icons=true&theme=buefy) -->
 
   </div>
 
