@@ -62,10 +62,7 @@
 
   <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjiin&layout=compact&theme=buefy)](https://github.com/delay-100/github-readme-stats)
-
-<!--[cjiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjiin&show_icons=true&theme=buefy) -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjiin&layout=compact&theme=buefy)](https://github.com/delay-100/github-readme-stats)  ![cjiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjiin&show_icons=true&theme=buefy) 
   </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
